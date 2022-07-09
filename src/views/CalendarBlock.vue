@@ -1,11 +1,12 @@
 <template lang="html">
-    <div class="mt-32  m-auto max-w-xl calendar">
-       
+    <div class=" mt-24  m-auto max-w-xl calendar">
+       <Datepicker class="select-user" />
     </div>
 </template>
 <script lang="ts">
+import Datepicker from "../components/datePicker.vue";
 export default {
-    
+    components: { Datepicker }
 }
 </script>
 <style>
