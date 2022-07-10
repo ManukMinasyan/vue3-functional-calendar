@@ -1,6 +1,7 @@
 <template lang="html">
     <div class=" mt-24  m-auto max-w-xl calendar">
        <Datepicker class="select-user" />
+    
     </div>
 </template>
 <script lang="ts">
@@ -14,7 +15,7 @@ export default {
   background: #2b4450;
   border-radius: 4px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
-  height: 501px;
+  height: 401px;
   perspective: 1000;
   transition: .9s;
   transform-style: preserve-3d;
