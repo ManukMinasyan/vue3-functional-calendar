@@ -1,24 +1,3 @@
 # vue3-typescript-functional-calendar
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/77129709/179297914-a01e3a4e-ed21-4e86-bb87-3f06c20d9c8d.png)
