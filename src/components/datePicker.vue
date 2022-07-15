@@ -95,6 +95,7 @@ font-family: 'Kantumruy Pro', sans-serif;
 
 }
 svg{
+  
   transition: 0.2s ease-in-out;
 }
 svg:hover{
@@ -102,26 +103,29 @@ svg:hover{
 
 }
 .week{
-  color: white;
+  color:white;
    width: 14%;
   font-size: 17px;
   
 }
 .day{
-   width: 14%;
-   margin-bottom: 10px;
-   background: rgba(0, 115, 168, 0.26);
-   
-   transition: 0.2s;
+   width: 10%;
+   margin-left: 2%;
+   margin-right: 2%;
+   margin-bottom: 5px;   
+   margin-top: 5px;
+   transition: 0.4s;
 }
 .day:hover{
-   background: rgba(0, 115, 168);  
+  background: #B5BEC6;
+  border-radius: 30px;  
 }
 .null{
-  opacity: 0.3;
+  opacity: 0;
 }
 .activeDay{ 
-   background: rgba(0, 115, 168);  
+  background: #B5BEC6;
+  border-radius: 30px;
 }
 
 
